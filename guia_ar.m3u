@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Generales",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Generales",Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+
+#EXTINF:-1 tvg-id="Cronica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",Cronica HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 tvg-id="America.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" tvg-country="AR" tvg-language="Spanish" group-title="Generales",America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+
+#EXTINF:-1 tvg-id="GarageTV.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Large.Logo_GarageTV2019.png.c7694a48fbe8a1685d4eee68cbafe44e.png/revision/latest?cb=20210525001901&path-prefix=es" tvg-country="AR" tvg-language="Spanish" group-title="Deportes",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",TN
+https://youtu.be/cb12KmMMDJA
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/C5N_logo.svg" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",C5N
+https://youtu.be/jTDk5CswBVk
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/A24-logo.svg" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",A24
+https://youtu.be/QGpHLgRnrx4
+
+#EXTINF:-1 tvg-id="LN+.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/La-Nacion-Mas-Logo.svg" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",LN+
+https://youtu.be/G5pHuBCqgrs
+
+#EXTINF:-1 tvg-id="Cadena3.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Cadena_3.png" tvg-country="AR" tvg-language="Spanish" group-title="Radio",Cadena 3
+https://youtu.be/CVSEu_Fla78
